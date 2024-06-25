@@ -67,6 +67,10 @@ Here are some visualizations from the project:
 
 **Sales Channels**: Amazon was the leading sales channel, accounting for 36% of total sales.
 
+### Snap of the complete dashboard:
+<div align="center"> <img src="https://github.com/Abdal-Shahin/Excel_Sales_Report/assets/173780042/8a2ba834-0dcd-4b93-b061-3ec346bedeba"> </div>
+
+
 ### TECHNIQUES USED
 * Data filtration and extraction
 * Pivot tables and pivot charts
