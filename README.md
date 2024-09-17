@@ -80,8 +80,3 @@ Here are some visualizations from the project:
 ### CONCLUSION
 Based on the analysis, it is recommended to target women customers in the top-performing states (UP, Telangana, Tamil Nadu) by promoting offers and ads through the top sales channel, Amazon. This strategy is expected to enhance customer engagement and drive higher sales.
 
-#### Repository Link
-
-Feel free to explore the detailed analysis and visualizations here: https://github.com/Abdal-Shahin/Excel_Sales_Report/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx
-
-This project demonstrates my proficiency in Excel, including data cleaning, processing, analysis, and visualization. I am excited to apply these skills to contribute to data-driven decision-making in future roles.
